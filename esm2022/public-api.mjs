@@ -1,0 +1,6 @@
+export * from './lib/editor.component';
+export * from './lib/diff-editor.component';
+export * from './lib/editor.module';
+export * from './lib/config';
+export * from './lib/types';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2VkaXRvci9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFjLHdCQUF3QixDQUFDO0FBQ3ZDLGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYyxxQkFBcUIsQ0FBQztBQUNwQyxjQUFjLGNBQWMsQ0FBQztBQUM3QixjQUFjLGFBQWEsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCAqIGZyb20gJy4vbGliL2VkaXRvci5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9kaWZmLWVkaXRvci5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9lZGl0b3IubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvY29uZmlnJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdHlwZXMnO1xyXG4iXX0=
